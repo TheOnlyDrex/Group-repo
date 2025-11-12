@@ -5,3 +5,7 @@ h1 {
 span {
     color: greenyellow;
 }
+
+p.verde {
+    color: green;
+}
