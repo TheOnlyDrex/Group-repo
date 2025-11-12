@@ -9,3 +9,8 @@ span {
 p.verde {
     color: green;
 }
+
+/*
+  altro modo per esprimere: class="rosso" da dare ad h1, poi dare classe a span class="verde" così da riciclare
+  la regola per il secondo file
+*/
