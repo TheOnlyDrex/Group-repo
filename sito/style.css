@@ -1,0 +1,16 @@
+h1.verde {
+    color:green;
+}
+
+h1.rosso {
+    color:red;
+}
+
+a {
+    color:red;
+    background-color: yellow;
+}
+
+h1:hover {
+    background-color: grey;
+}
